@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Array {
 	public static void main(String[] args) {
-		int[] arr1= {1,2,1,1,1,7};
+		int[] arr1= {1,2,1,1,1,7,9};
 		System.out.println(getMaxLength(arr1, 3));
 		int []arr2= {1,2,3,3};
 		System.out.println(maxLength(arr2,6));
